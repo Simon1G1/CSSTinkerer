@@ -9,3 +9,17 @@ h2 {
   background-color: grey;
 
 }
+
+#FontExample1 {
+
+  background-color: yellow;
+  font-weight: lighter;
+
+}
+
+#FontExample2 {
+
+  background-color: red;
+  font-weight: bolder;
+
+}
