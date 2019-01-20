@@ -40,10 +40,30 @@ h2 {
 
 }
 
+.flex-container-2 {
+  display: flex;
+  margin-top: 20px;
+}
+
 .flex-container div {
 
   margin-top: 10px;
   padding: 10px;
+  border: 1px #ccc solid;
+
+}
+
+.flex-container-2 div {
+
+  padding: 10px;
+  border: 1px #ccc solid;
+
+}
+
+.flex-container-2 aside {
+
+  padding-top: 10px;
+  padding-left: 10px;
   border: 1px #ccc solid;
 
 }
