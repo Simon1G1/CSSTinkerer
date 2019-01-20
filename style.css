@@ -24,11 +24,26 @@ h2 {
 
 }
 
-div {
+#regularDiv {
 
-  padding: 10% 10% 10% 10%;
+  padding: 10% 10% 30% 10%;
   border: 10px 10px 10px 10px;
   border-style: solid;
   border-color: green;
+  width: 50%;
+
+}
+
+.flex-container {
+
+  display: flex;
+
+}
+
+.flex-container div {
+
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px #ccc solid;
 
 }
